@@ -1,5 +1,5 @@
-<div style="display: inline_block"><br>
- <img align="center" height="250" style="border-radius:100px; src=" src="https://www.mydral.com/wp-content/uploads/2020/04/datascience.gif" alt="https://www.mydral.com/data-science/" style="width: 450px; height: 450px; right: 1000px; top: 0px;">
+<div style="display: inline_block" align = "center"><br>
+ <img height="250" style="border-radius:100px" src="https://www.mydral.com/wp-content/uploads/2020/04/datascience.gif" alt="https://www.mydral.com/data-science/" style="width: 500px; height: 500px; right: 0px; top: 0px;">
  </div>
  
 <h1 align=center><a target="_blank" href="https://demo.gethugothemes.com/liva" rel="nofollow">Olá, sou o Egleidson</a> <a  target="_blank"></a></h1>
